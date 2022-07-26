@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="shop_stock_tracking.Parametreler" GeneratedClassName="settings_LocalDB">
+  <Profiles />
+  <Settings>
+    <Setting Name="localdb_" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sst</Value>
+    </Setting>
+    <Setting Name="database_" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sst_db</Value>
+    </Setting>
+    <Setting Name="ilkmi" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="default_personel_adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Deneme Personeli</Value>
+    </Setting>
+    <Setting Name="default_personel_soyadi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Demo</Value>
+    </Setting>
+    <Setting Name="default_kullanici_adi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Demo</Value>
+    </Setting>
+    <Setting Name="default_sifre" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1234</Value>
+    </Setting>
+    <Setting Name="default_tel1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5417925900</Value>
+    </Setting>
+    <Setting Name="default_personel_turu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">y</Value>
+    </Setting>
+    <Setting Name="loading_value" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
